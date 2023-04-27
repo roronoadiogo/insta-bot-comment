@@ -32,6 +32,11 @@ If you desire, run it with Docker
 ```console
 user@machine:~$ docker build -t insta-bot-image .
 ```
+and run 
+
+```console
+user@machine:~$ docker run insta-bot-image
+```
 
 The application run in CLI the commands below to execute: (In development)
 
